@@ -1,0 +1,10 @@
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\obj\Debug\asalKontrol.csprojAssemblyReference.cache
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\obj\Debug\asalKontrol.Form1.resources
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\obj\Debug\asalKontrol.Properties.Resources.resources
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\obj\Debug\asalKontrol.csproj.GenerateResource.cache
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\obj\Debug\asalKontrol.csproj.CoreCompileInputs.cache
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\bin\Debug\asalKontrol.exe.config
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\bin\Debug\asalKontrol.exe
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\bin\Debug\asalKontrol.pdb
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\obj\Debug\asalKontrol.exe
+C:\Users\Windows'10\source\repos\asalKontrol\asalKontrol\obj\Debug\asalKontrol.pdb
